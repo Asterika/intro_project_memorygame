@@ -22,7 +22,7 @@ var cards = [
   },
 ];
 
-// Create an array to store the cards in play
+// Create an array to store cards in play
 var cardsInPlay = [];
 
 // Create a function to check for a match
